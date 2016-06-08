@@ -1,4 +1,4 @@
-package com.rabbit.design.patterns.example.adaptor;
+package com.rabbit.design.patterns.example.adapter;
 
 public class Main {
 
